@@ -1,0 +1,10 @@
+title: 0xDC
+description: >-
+baseurl: ""
+url: "https://0xdcy.github.io"
+twitter_username: 0xDCypher
+github_username: 0xDCy
+
+theme: minima
+plugins:
+  - jekyll-feed
